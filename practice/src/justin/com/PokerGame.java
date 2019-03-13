@@ -1,6 +1,4 @@
-import justin.com.Card;
-import justin.com.Poker;
-
+package justin.com;
 public class PokerGame {
 
 	public static void main(String[] args) {
