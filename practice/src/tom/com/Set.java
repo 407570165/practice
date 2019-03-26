@@ -1,4 +1,4 @@
-package tom.com;
+/*package tom.com;
 
 import java.util.HashSet;
 import java.util.Random;
@@ -14,4 +14,4 @@ public class Set {
 			}
 	}
 
-}
+}*/
