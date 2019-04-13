@@ -18,7 +18,9 @@ public class Practice {
 		scanner.nextLine();
 		array.add(name);
 		arrays.add(am);
+		
 		System.out.println(name+" "+am);
+		 
 		}
 	}
 }

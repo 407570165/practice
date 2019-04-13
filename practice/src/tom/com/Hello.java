@@ -27,7 +27,7 @@ public class Hello {
 		p.add(8);
 		p.add(7);
 		System.out.println(p);//蝯�789 ��隞交����������*/
-		/*Random rand= new Random(47);
+		Random rand= new Random(47);
 		Map<Integer, Integer> m =new HashMap<Integer,Integer>();
 		for(int i =0;i<10000;i++) {
 			int r=rand.nextInt(20);
@@ -39,7 +39,7 @@ public class Hello {
 				m.put(r, freq+1);
 			}
 		}
-		System.out.println(m);*/
+		System.out.println(m);
 	}
 
 }
