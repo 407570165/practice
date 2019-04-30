@@ -17,6 +17,7 @@ public class Test2 {
 	System.out.println("平均為:" + average);
 	}
 	catch(NumberFormatException e) {
+		e.printStackTrace();
 		System.out.println("格式錯誤");
 	}
 	
